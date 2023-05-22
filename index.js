@@ -1,3 +1,4 @@
+// MODULE 1
 const character= "legolas";
 // character = "Gimly";
 console.log(character);
@@ -15,3 +16,5 @@ console.log(x,y,z)
 let truth = true; 
 let lie = false; 
 console.log(truth, lie)
+
+// MODULE 2
